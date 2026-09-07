@@ -1,0 +1,7 @@
+{
+  "source_folder": "source",
+  "output_folder": "output",
+  "log_file": "watcher.log",
+  "poll_interval_seconds": 2,
+  "settle_seconds": 5
+}

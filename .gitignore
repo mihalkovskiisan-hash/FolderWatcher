@@ -1,0 +1,7 @@
+/source/
+/output/
+*.log
+*.log.[0-9]*
+__pycache__/
+*.py[cod]
+.DS_Store
