@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>local.folderwatcher</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/bin/python3</string>
+		<string>-B</string>
+		<string>/Users/michellemanakov/Developer/FolderWatcher/watcher.py</string>
+	</array>
+	<key>WorkingDirectory</key>
+	<string>/Users/michellemanakov/Developer/FolderWatcher</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardOutPath</key>
+	<string>/Users/michellemanakov/Developer/FolderWatcher/launchd.stdout.log</string>
+	<key>StandardErrorPath</key>
+	<string>/Users/michellemanakov/Developer/FolderWatcher/launchd.stderr.log</string>
+</dict>
+</plist>
