@@ -8,15 +8,15 @@
 	<array>
 		<string>/usr/bin/python3</string>
 		<string>-B</string>
-		<string>/Users/michellemanakov/Developer/FolderWatcher/watcher.py</string>
+		<string>/Users/YOUR_USERNAME/Developer/FolderWatcher/watcher.py</string>
 	</array>
 	<key>WorkingDirectory</key>
-	<string>/Users/michellemanakov/Developer/FolderWatcher</string>
+	<string>/Users/YOUR_USERNAME/Developer/FolderWatcher</string>
 	<key>RunAtLoad</key>
 	<true/>
 	<key>StandardOutPath</key>
-	<string>/Users/michellemanakov/Developer/FolderWatcher/launchd.stdout.log</string>
+	<string>/Users/YOUR_USERNAME/Developer/FolderWatcher/launchd.stdout.log</string>
 	<key>StandardErrorPath</key>
-	<string>/Users/michellemanakov/Developer/FolderWatcher/launchd.stderr.log</string>
+	<string>/Users/YOUR_USERNAME/Developer/FolderWatcher/launchd.stderr.log</string>
 </dict>
 </plist>
